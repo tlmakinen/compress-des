@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Large / generated artifacts (remove these lines if you want them in Git)
+*.npz
+*.pkl
+*.zip
+ndes_*/
+new_summaries_*/
+sbi-logs/
