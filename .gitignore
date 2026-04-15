@@ -17,6 +17,16 @@ env/
 *.npz
 *.pkl
 *.zip
+*.pdf
+*.jpg
+*.png
+*.eps
+*.svg
+*.tiff
+*.bmp
+*.gif
+*.ico
+*.webp
 ndes_*/
 new_summaries_*/
 sbi-logs/
